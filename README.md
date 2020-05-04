@@ -10,11 +10,11 @@ First, you will need to have the node and yarn installed on your machine. As a p
 
 Here are the software that will be needed for the application
 
-* Nodejs: https://nodejs.org/en/
-* Yarn: https://classic.yarnpkg.com/en/docs/install/#windows-stable
-* Docker: https://docs.docker.com/docker-for-windows/install/
-* Insomnia Core: https://insomnia.rest/download/#windows
-* DBeaver: https://dbeaver.io/download/
+* [Nodejs](https://nodejs.org/en/)
+* [Yarn](https://classic.yarnpkg.com/en/docs/install/#windows-stable)
+* [Docker](https://docs.docker.com/docker-for-windows/install/)
+* [Insomnia Core](https://insomnia.rest/download/#windows)
+* [DBeaver](https://dbeaver.io/download/)
 
 ### Instalations 
 
