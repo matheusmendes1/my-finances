@@ -31,11 +31,12 @@ Here are the software that will be needed for the application
 
 #### DBeaver
 
-*. Inside Dbeaver, click on "new connection"
+* Inside Dbeaver, click on "new connection"
   * Host: localhost
   * Port: 5432 (same as the container)
   * Database: postgres (defaul name)
   * Username: same as the container
   * Senha: same as the container
   * Na aba PostgreSQL: check 'show all databases'
+
 * Create a new database to this connection
